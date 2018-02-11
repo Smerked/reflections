@@ -16,7 +16,7 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
-I get a headache. Because you're rejoining two branches. even though it should theoritcally look more like a zipper.
+The result is one updated branch containing both the branches contents. Because you're rejoining two branches; even though it should theoretically look more like a zipper.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
